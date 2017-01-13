@@ -1,0 +1,19 @@
+{
+  "name": "scapegoat",
+  "version": "0.0.0",
+  "description": "This is ultily for html syntax checking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dejavuAnkit/scapeGoat.git"
+  },
+  "author": "Ankit Dwivedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dejavuAnkit/scapeGoat/issues"
+  },
+  "homepage": "https://github.com/dejavuAnkit/scapeGoat#readme"
+}
